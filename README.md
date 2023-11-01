@@ -1,5 +1,5 @@
 # RisetInformatika
-Deteksi ikan dengan metode BLOB
+Deteksi ikan dengan metode BLOB</br>
 metode  : Method
 
 <H1> TUGAS CARI JURNAL TERBARU </H1>
