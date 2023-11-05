@@ -7,4 +7,4 @@ Link Methodology : https://www.sciencedirect.com/science/article/pii/S0010482523
 Link Method  : https://www.sciencedirect.com/science/article/pii/S2589721723000284
 
 <H1> PROGRES RISET </H1>
-Dapat dilihat pada file diatas dengan nama file progress.doc
+Dapat dilihat pada file diatas dengan nama file Progress Riset.docx
