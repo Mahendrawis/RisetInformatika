@@ -7,7 +7,7 @@ Link Methodology : https://www.sciencedirect.com/science/article/pii/S0010482523
 Link Method  : https://www.sciencedirect.com/science/article/pii/S2589721723000284
 
 <h1>SIMULATION PROJECT</h1>
-(https://drive.google.com/file/d/1WkRA6NHUd9GJBGjwsjfmcUtSnM_ogDNj/view?usp=sharing "Simulasi Project")
+https://github.com/Mahendrawis/RisetInformatika/assets/90669261/4c66d192-1e96-40cd-9bc4-25c9cd77a9d5
 
 <h1>HASIL & PEMBAHASAN</h1>
 <h2>Pre Processing</h2>
