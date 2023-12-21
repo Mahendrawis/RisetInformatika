@@ -12,6 +12,7 @@ Link Method  : https://www.sciencedirect.com/science/article/pii/S25897217230002
 <h1>HASIL & PEMBAHASAN</h1>
 <h2>Pre Processing</h2>
 Dalam konteks pendeteksian objek, diperlukan rangkaian prosedur terstruktur yang melibatkan pre-processing, ekstraksi fitur, dan evaluasi kesamaan hasil guna memulai proses identifikasi objek secara efektif. Citra asli yang bersifat RGB akan mengalami proses cropping dengan tujuan mendekatkan objek dan meningkatkan fokusnya. Oleh karena itu, perbandingan antara citra asli dan citra hasil cropping menghasilkan representasi visual dari objek yang berhasil diidentifikasi, menyoroti perbedaan tampilan asli dan detail objek yang diperoleh melalui proses pengolahan tersebut.
+
 ![img](https://github.com/Mahendrawis/RisetInformatika/assets/90669261/c8accf90-c71f-47f4-80e9-130d8bea0eb3)
 
 <h2>Segmentasi Citra</h2>
@@ -25,6 +26,7 @@ Dalam konteks gambar digital, operasi morfologi mengacu pada rangkaian teknik ma
 
 <h2>BLOB</h2>
  Tahap segmentasi gambar memiliki dua sub-proses penting blob detection dan operasi morfologi, yang bekerja sama untuk menghasilkan hasil akhir yang dapat diinterpretasikan. Metode blob detection memainkan peran penting sebagai penunjuk strategis untuk menandai lokasi objek yang relevan. Setelah titik-titik ini diidentifikasi, diperoleh data tentang jumlah objek, tetapi perlu diingat bahwa keakuratannya tidak sepenuhnya pasti. Hal ini karena ikan hias bisa saja saling menempel atau tumpang tindih, yang dapat mempengaruhi hasil penghitungan yang sebenarnya. Seluruh proses ini dilakukan dengan menggunakan bahasa pemrograman Python selama pengujian deteksi objek untuk secara hati-hati mengevaluasi kinerja dan keakuratan hasil segmentasi untuk memastikan keakuratan dalam mengidentifikasi dan menghitung objek dalam gambar.
+ 
 ![img](https://github.com/Mahendrawis/RisetInformatika/assets/90669261/6cff5792-6e0f-48a1-909a-c5a18315c4ae)
 
 <h1>HASIL</h1>
