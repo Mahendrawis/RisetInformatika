@@ -6,12 +6,6 @@ metode  : Method
 Link Methodology : https://www.sciencedirect.com/science/article/pii/S0010482523008727?via%3Dihub </br>
 Link Method  : https://www.sciencedirect.com/science/article/pii/S2589721723000284
 
-<h1>METODE PENELITIAN</h1>
-![image](https://github.com/Mahendrawis/RisetInformatika/assets/90669261/4c19ccf8-b7cf-47f7-b165-617de3a3dbea)
-
-<h1>Penerapan Metode</h1>
-![image](https://github.com/Mahendrawis/RisetInformatika/assets/90669261/46f34c82-d29b-447c-b9c5-371bc3d8a858)
-
 <h1>HASIL & PEMBAHASAN</h1>
 <h2>Pre Processing</h2>
 Dalam konteks pendeteksian objek, diperlukan rangkaian prosedur terstruktur yang melibatkan pre-processing, ekstraksi fitur, dan evaluasi kesamaan hasil guna memulai proses identifikasi objek secara efektif. Citra asli yang bersifat RGB akan mengalami proses cropping dengan tujuan mendekatkan objek dan meningkatkan fokusnya. Oleh karena itu, perbandingan antara citra asli dan citra hasil cropping menghasilkan representasi visual dari objek yang berhasil diidentifikasi, menyoroti perbedaan tampilan asli dan detail objek yang diperoleh melalui proses pengolahan tersebut.
