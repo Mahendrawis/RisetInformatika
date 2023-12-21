@@ -6,6 +6,10 @@ metode  : Method
 Link Methodology : https://www.sciencedirect.com/science/article/pii/S0010482523008727?via%3Dihub </br>
 Link Method  : https://www.sciencedirect.com/science/article/pii/S2589721723000284
 
+<h1>SIMULATION PROJECT</h1>
+[<img src="![image](https://github.com/Mahendrawis/RisetInformatika/assets/90669261/67c29d5b-c66e-491d-9ad6-80fdac716ca3)
+" width="50%">](https://drive.google.com/file/d/1WkRA6NHUd9GJBGjwsjfmcUtSnM_ogDNj/view?usp=sharing "Simulasi Project")
+
 <h1>HASIL & PEMBAHASAN</h1>
 <h2>Pre Processing</h2>
 Dalam konteks pendeteksian objek, diperlukan rangkaian prosedur terstruktur yang melibatkan pre-processing, ekstraksi fitur, dan evaluasi kesamaan hasil guna memulai proses identifikasi objek secara efektif. Citra asli yang bersifat RGB akan mengalami proses cropping dengan tujuan mendekatkan objek dan meningkatkan fokusnya. Oleh karena itu, perbandingan antara citra asli dan citra hasil cropping menghasilkan representasi visual dari objek yang berhasil diidentifikasi, menyoroti perbedaan tampilan asli dan detail objek yang diperoleh melalui proses pengolahan tersebut.
@@ -19,9 +23,6 @@ faktor-faktor seperti interferensi elektronik, sensor, dan kondisi lingkungan se
 
 <h2>OPERASI MORFOLOGI</h2>
 Dalam konteks gambar digital, operasi morfologi mengacu pada rangkaian teknik matematika yang digunakan untuk mengubah struktur serta bentuk objek yang terdapat dalam gambar. Dua operasi dasar dalam morfologi adalah dilasi, yang meningkatkan area objek dengan menambahkan piksel yang sesuai dengan elemen struktural, dan erosi, yang mengurangi area objek dengan menghapus piksel yang sesuai dengan elemen struktural. Sebagai contoh, operasi morfologi dilasi dan erosi untuk gambar berdimensi 10x10 dan elemen struktural berdimensi 3x3.
-
-<h1>SIMULATION PROJECT</h1>
-[<img src="https://drive.google.com/file/d/1WkRA6NHUd9GJBGjwsjfmcUtSnM_ogDNj/view?usp=sharing" width="50%">](https://drive.google.com/file/d/1WkRA6NHUd9GJBGjwsjfmcUtSnM_ogDNj/view?usp=sharing "Simulasi Project")
 
 <h2>BLOB</h2>
  Tahap segmentasi gambar memiliki dua sub-proses penting blob detection dan operasi morfologi, yang bekerja sama untuk menghasilkan hasil akhir yang dapat diinterpretasikan. Metode blob detection memainkan peran penting sebagai penunjuk strategis untuk menandai lokasi objek yang relevan. Setelah titik-titik ini diidentifikasi, diperoleh data tentang jumlah objek, tetapi perlu diingat bahwa keakuratannya tidak sepenuhnya pasti. Hal ini karena ikan hias bisa saja saling menempel atau tumpang tindih, yang dapat mempengaruhi hasil penghitungan yang sebenarnya. Seluruh proses ini dilakukan dengan menggunakan bahasa pemrograman Python selama pengujian deteksi objek untuk secara hati-hati mengevaluasi kinerja dan keakuratan hasil segmentasi untuk memastikan keakuratan dalam mengidentifikasi dan menghitung objek dalam gambar.
